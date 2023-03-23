@@ -1,3 +1,1 @@
-# eeeic23
-PV power prediction algorithms
-This code is for eeeic23 conference paper
+This is a conference EEEIC23 code.
